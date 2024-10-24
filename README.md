@@ -1,6 +1,6 @@
-<p align="center">
+<p align="left">
 	<a href="https://uneo.digital" target="_blank" rel="noopener noreferrer">
-		<img width="250" src="https://uneo.digital/images/uneo-signet.svg">
+		<img width="150" src="https://uneo.digital/images/uneo-signet.svg">
 	</a>
 </p>
 
